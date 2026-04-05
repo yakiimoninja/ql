@@ -1,0 +1,29 @@
+# specify 1 map per line, mapname|factoryid
+# ex: aerowalk|ffa
+# see factories.txt for valid factory id values
+aerowalk|3ntffa
+battleforged|3ntffa
+bloodrun|3ntffa
+campgrounds|3ntffa
+concretepalace|3ntffa
+cure|3ntffa
+delirium|3ntffa
+dismemberment|3ntffa
+elder|3ntffa
+furiousheights|3ntffa
+fuse|3ntffa
+hektik|3ntffa
+houseofdecay|3ntffa
+mcsarges|3ntffa
+phrantic|3ntffa
+refinery|3ntffa
+silence|3ntffa
+sinister|3ntffa
+solarium|3ntffa
+sorrow|3ntffa
+theedge|3ntffa
+theepicenter|3ntffa
+toxicity|3ntffa
+useandabuse|3ntffa
+verticalvengeance|3ntffa
+wicked|3ntffa
