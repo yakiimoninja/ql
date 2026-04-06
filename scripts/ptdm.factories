@@ -60,6 +60,7 @@
             "g_spawnItemWeapons": "0",
             "g_startingArmor": "100",
             "g_startingHealth": "100",
+            "g_startingHealthBonus": "0",
             "g_startingWeapons": "113",
             "g_weaponrespawn": "0",
             "pmove_AirControl": "1",
