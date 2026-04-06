@@ -17,5 +17,5 @@ exec $qPathToStartScript \
 	+set zmq_stats_enable 1 \
 	+set zmq_stats_password "password" \
 	+set zmq_stats_port $gameport \
-	+set serverstartup "map thunderstruck 3ntffa" \
+	+set serverstartup "map aerowalk 3ntffa" \
 	+set sv_mapPoolFile "mappools/mappool_3ntffa.txt" \
