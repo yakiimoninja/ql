@@ -1,9 +1,1 @@
-/*
-!mappools/
-!mods/
-!scripts/
-!.gitignore
-!server.cfg
-!ql.sh
-!access.txt
-!README.md
+.gitignore
