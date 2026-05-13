@@ -205,7 +205,8 @@
             "sv_mapPoolFile": "mappools/mappool_ittdm.txt",
             "g_instaGib": "1",
             "dmflags": "20",
-            "fraglimit": "0",
+            "fraglimit": "75",
+            "timelimit": "10",
             "g_allowVote": "1",
             "g_voteFlags": "8",
             "g_infiniteAmmo": "1",
@@ -231,8 +232,7 @@
             "pmove_WaterSwimScale": "0.5f",
             "pmove_WaterWadeScale": "0.75f",
             "pmove_WeaponDropTime": "10",
-            "pmove_WeaponRaiseTime": "10",
-            "timelimit": "10"
+            "pmove_WeaponRaiseTime": "10"
         }
     },
     {
@@ -246,6 +246,7 @@
             "g_instaGib": "1",
             "dmflags": "20",
             "fraglimit": "0",
+            "timelimit": "10",
             "g_allowVote": "1",
             "g_voteFlags": "8",
             "g_infiniteAmmo": "1",
