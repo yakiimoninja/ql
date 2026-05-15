@@ -18,4 +18,4 @@ exec $qPathToStartScript \
 	+set zmq_stats_password "password" \
 	+set zmq_stats_port $gameport \
 	+set serverstartup "map aerowalk 3ffa" \
-	+set sv_mapPoolFile "mappools/mappool_pffa.txt" \
+	+set sv_mapPoolFile "mappools/mappool_3ffa.txt" \
