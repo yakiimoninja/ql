@@ -1,7 +1,7 @@
 [
     {
-        "id": "3dttdm",
-        "title": "3dttdm",
+        "id": "3dtdm",
+        "title": "Unholy trinity drops TDM",
         "author": "potatoninja",
         "description": "Unholy Trinity, infinite ammo with drops, turbo, TDM",
         "basegt": "tdm",
@@ -39,8 +39,8 @@
         }
     },
     {
-        "id": "3nttdm",
-        "title": "3nttdm",
+        "id": "3tdm",
+        "title": "Unholy trinity TDM",
         "author": "potatoninja",
         "description": "Unholy Trinity, infinite ammo without drops, turbo, TDM.",
         "basegt": "tdm",
@@ -78,8 +78,8 @@
         }
     },
     {
-        "id": "6nttdm",
-        "title": "6nttdm",
+        "id": "6dtdm",
+        "title": "Six drops TDM",
         "author": "potatoninja",
         "description": "6 weapons, infinite ammo without drops, extra turbo, TDM.",
         "basegt": "tdm",
@@ -117,8 +117,8 @@
         }
     },
     {
-        "id": "7qcttdm",
-        "title": "7qcttdm",
+        "id": "qctdm",
+        "title": "Quake champions TDM",
         "author": "potatoninja",
         "description": "7 weapons, infinite ammo drops, turbo, TDM.",
         "basegt": "tdm",
@@ -158,7 +158,7 @@
     },
     {
         "id": "catdm",
-        "title": "catdm",
+        "title": "Clan arena TDM",
         "author": "potatoninja",
         "description": "7 weapons, infinite ammo without drops, turbo, TDM.",
         "basegt": "tdm",
@@ -196,8 +196,8 @@
         }
     },
     {
-        "id": "ittdm",
-        "title": "ittdm",
+        "id": "igtdm",
+        "title": "Instagib TDM",
         "author": "potatoninja",
         "description": "Railgun and Gauntlet only.",
         "basegt": "tdm",
@@ -236,8 +236,8 @@
         }
     },
     {
-        "id": "mittdm",
-        "title": "mittdm",
+        "id": "mgtdm",
+        "title": "Machinegib TDM",
         "author": "potatoninja",
         "description": "Machinegun instakill, no drops, turbo TDM.",
         "basegt": "tdm",
@@ -277,7 +277,7 @@
     },
     {
         "id": "hrtdm",
-        "title": "hrtdm",
+        "title": "Hot rockets TDM",
         "author": "potatoninja",
         "description": "Rockets only, triple damage, turbo, TDM.",
         "basegt": "tdm",

@@ -1,9 +1,9 @@
 [
     {
-        "id": "3dtffa",
-        "title": "3dtffa",
+        "id": "3dffa",
+        "title": "Unholy trinity drops FFA",
         "author": "potatoninja",
-        "description": "Unholy Trinity. Infinite ammo. Drops. Turbo FFA",
+        "description": "Unholy Trinity. Infinite ammo. Drops. Turbo FFA.",
         "basegt": "ffa",
         "cvars": {
             "sv_mapPoolFile": "mappools/mappool_3dtffa.txt",
@@ -39,8 +39,8 @@
         }
     },
     {
-        "id": "3ntffa",
-        "title": "3ntffa",
+        "id": "3ffa",
+        "title": "Unholy trinity FFA",
         "author": "potatoninja",
         "description": "Unholy Trinity. Infinite ammo. No drops. Turbo FFA.",
         "basegt": "ffa",
@@ -78,8 +78,8 @@
         }
     },
     {
-        "id": "6ntffa",
-        "title": "6ntffa",
+        "id": "6dffa",
+        "title": "Six drops FFA",
         "author": "potatoninja",
         "description": "6 weapons. Infinite ammo. No drops. Extra turbo FFA.",
         "basegt": "ffa",
@@ -117,8 +117,8 @@
         }
     },
     {
-        "id": "7qctffa",
-        "title": "7qctffa",
+        "id": "qcffa",
+        "title": "Quake champions FFA",
         "author": "potatoninja",
         "description": "7 weapons. Infinite ammo. Drops. Turbo FFA.",
         "basegt": "ffa",
@@ -158,7 +158,7 @@
     },
     {
         "id": "caffa",
-        "title": "caffa",
+        "title": "Clan arena ffa",
         "author": "potatoninja",
         "description": "7 weapons. Infinite ammo. No drops. Turbo FFA.",
         "basegt": "ffa",
@@ -196,8 +196,8 @@
         }
     },
     {
-        "id": "itffa",
-        "title": "itffa",
+        "id": "igffa",
+        "title": "Instagib FFA",
         "author": "potatoninja",
         "description": "Railgun and Gauntlet only.",
         "basegt": "ffa",
@@ -236,8 +236,8 @@
         }
     },
     {
-        "id": "mitffa",
-        "title": "mitffa",
+        "id": "mgffa",
+        "title": "Machinegib FFA",
         "author": "potatoninja",
         "description": "Machinegun instakill. No drops. Turbo FFA.",
         "basegt": "ffa",
@@ -277,7 +277,7 @@
     },
     {
         "id": "hrffa",
-        "title": "hrffa",
+        "title": "Hot rockets FFA",
         "author": "potatoninja",
         "description": "Rockets only, triple damage, turbo, FFA.",
         "basegt": "ffa",
