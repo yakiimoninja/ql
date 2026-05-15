@@ -6,7 +6,7 @@
         "description": "Unholy Trinity. Infinite ammo. Drops. Turbo FFA.",
         "basegt": "ffa",
         "cvars": {
-            "sv_mapPoolFile": "mappools/mappool_pffa.txt",
+            "sv_mapPoolFile": "mappools/mappool_3dffa.txt",
             "dmflags": "28",
             "fraglimit": "50",
             "timelimit": "10",
@@ -45,7 +45,7 @@
         "description": "Unholy Trinity. Infinite ammo. No drops. Turbo FFA.",
         "basegt": "ffa",
         "cvars": {
-            "sv_mapPoolFile": "mappools/mappool_3ntffa.cfg",
+            "sv_mapPoolFile": "mappools/mappool_3ffa.txt",
             "dmflags": "28",
             "fraglimit": "50",
             "timelimit": "10",
@@ -84,7 +84,7 @@
         "description": "6 weapons. Infinite ammo. No drops. Extra turbo FFA.",
         "basegt": "ffa",
         "cvars": {
-            "sv_mapPoolFile": "mappools/mappool_pffa.txt",
+            "sv_mapPoolFile": "mappools/mappool_6dffa.txt",
             "dmflags": "20",
             "fraglimit": "50",
             "timelimit": "10",
@@ -123,7 +123,7 @@
         "description": "7 weapons. Infinite ammo. Drops. Turbo FFA.",
         "basegt": "ffa",
         "cvars": {
-            "sv_mapPoolFile": "mappools/mappool_pffa.txt",
+            "sv_mapPoolFile": "mappools/mappool_qcffa.txt",
             "disable_item_quad": "0",
             "dmflags": "20",
             "fraglimit": "50",
@@ -163,7 +163,7 @@
         "description": "7 weapons. Infinite ammo. No drops. Turbo FFA.",
         "basegt": "ffa",
         "cvars": {
-            "sv_mapPoolFile": "mappools/mappool_pffa.txt",
+            "sv_mapPoolFile": "mappools/mappool_caffa.txt",
             "dmflags": "28",
             "fraglimit": "50",
             "timelimit": "10",
@@ -202,7 +202,7 @@
         "description": "Railgun and Gauntlet only.",
         "basegt": "ffa",
         "cvars": {
-            "sv_mapPoolFile": "mappools/mappool_pffa.txt",
+            "sv_mapPoolFile": "mappools/mappool_igffa.txt",
             "g_instaGib": "1",
             "dmflags": "20",
             "fraglimit": "50",
@@ -242,7 +242,7 @@
         "description": "Machinegun instakill. No drops. Turbo FFA.",
         "basegt": "ffa",
         "cvars": {
-            "sv_mapPoolFile": "mappools/mappool_pffa.txt",
+            "sv_mapPoolFile": "mappools/mappool_mgffa.txt",
             "g_instaGib": "1",
             "dmflags": "20",
             "fraglimit": "0",
@@ -282,7 +282,7 @@
         "description": "Rockets only, triple damage, turbo, FFA.",
         "basegt": "ffa",
         "cvars": {
-            "sv_mapPoolFile": "mappools/mappool_pffa.txt",
+            "sv_mapPoolFile": "mappools/mappool_hrffa.txt",
             "dmflags": "28",
             "fraglimit": "50",
             "timelimit": "10",

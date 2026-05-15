@@ -6,7 +6,7 @@
         "description": "Unholy Trinity, infinite ammo with drops, turbo, TDM",
         "basegt": "tdm",
         "cvars": {
-            "sv_mapPoolFile": "mappools/mappool_ptdm.txt",
+            "sv_mapPoolFile": "mappools/mappool_3dtdm.txt",
             "dmflags": "28",
             "fraglimit": "75",
             "g_allowVote": "1",
@@ -45,6 +45,7 @@
         "description": "Unholy Trinity, infinite ammo without drops, turbo, TDM.",
         "basegt": "tdm",
         "cvars": {
+            "sv_mapPoolFile": "mappools/mappool_3tdm.txt",
             "dmflags": "28",
             "fraglimit": "75",
             "g_allowVote": "1",
@@ -84,7 +85,7 @@
         "description": "6 weapons, infinite ammo without drops, extra turbo, TDM.",
         "basegt": "tdm",
         "cvars": {
-            "sv_mapPoolFile": "mappools/mappool_ptdm.txt",
+            "sv_mapPoolFile": "mappools/mappool_6dtdm.txt",
             "dmflags": "20",
             "fraglimit": "0",
             "g_allowVote": "1",
@@ -123,7 +124,7 @@
         "description": "7 weapons, infinite ammo drops, turbo, TDM.",
         "basegt": "tdm",
         "cvars": {
-            "sv_mapPoolFile": "mappools/mappool_ptdm.txt",
+            "sv_mapPoolFile": "mappools/mappool_qctdm.txt",
             "disable_item_quad": "0",
             "dmflags": "20",
             "fraglimit": "75",
@@ -163,7 +164,7 @@
         "description": "7 weapons, infinite ammo without drops, turbo, TDM.",
         "basegt": "tdm",
         "cvars": {
-            "sv_mapPoolFile": "mappools/mappool_ptdm.txt",
+            "sv_mapPoolFile": "mappools/mappool_catdm.txt",
             "dmflags": "28",
             "fraglimit": "75",
             "g_allowVote": "1",
@@ -202,7 +203,7 @@
         "description": "Railgun and Gauntlet only.",
         "basegt": "tdm",
         "cvars": {
-            "sv_mapPoolFile": "mappools/mappool_ptdm.txt",
+            "sv_mapPoolFile": "mappools/mappool_igtdm.txt",
             "g_instaGib": "1",
             "dmflags": "20",
             "fraglimit": "75",
@@ -242,7 +243,7 @@
         "description": "Machinegun instakill, no drops, turbo TDM.",
         "basegt": "tdm",
         "cvars": {
-            "sv_mapPoolFile": "mappools/mappool_ptdm.txt",
+            "sv_mapPoolFile": "mappools/mappool_mgtdm.txt",
             "g_instaGib": "1",
             "dmflags": "20",
             "fraglimit": "0",
@@ -282,7 +283,7 @@
         "description": "Rockets only, triple damage, turbo, TDM.",
         "basegt": "tdm",
         "cvars": {
-            "sv_mapPoolFile": "mappools/mappool_ptdm.txt",
+            "sv_mapPoolFile": "mappools/mappool_hrtdm.txt",
             "dmflags": "28",
             "fraglimit": "75",
             "timelimit": "10",
